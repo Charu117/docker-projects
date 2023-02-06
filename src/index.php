@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello World D!";
+echo "Hello World from Docker";
 
 ?>
 <!DOCTYPE html>
@@ -12,6 +12,6 @@ echo "Hello World D!";
     <title>Document</title>
 </head>
 <body>
-    <h1>HELLO</h1>
+    <h1>HELLO FROM HTML TAG</h1>
 </body>
 </html>
